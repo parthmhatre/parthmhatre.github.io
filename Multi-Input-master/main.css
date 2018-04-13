@@ -1,0 +1,20 @@
+.add_multi_input_field, .remove_multi_input_field{
+	cursor: pointer;
+	border: 1px solid;
+}
+
+.remove_multi_input_field {
+	position: absolute;
+	top: 0px;
+	right: -46px;
+}
+
+.OSF {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.OSF:first-child {
+	margin-top: 0px;
+}
