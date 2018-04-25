@@ -1,4 +1,0 @@
-Multi-Input
-===========
-
-Multi Input
